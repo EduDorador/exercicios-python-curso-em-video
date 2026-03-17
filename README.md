@@ -1,4 +1,4 @@
-# Exercícios Python - Curso em Vídeo
+# Exercícios Python - Curso em Vídeo 🐍
 
 Repositório com exercícios realizados durante o curso de Python do Curso em Vídeo.
 
