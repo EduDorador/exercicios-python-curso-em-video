@@ -1,0 +1,8 @@
+nome = str(input('Digite o seu nome: ')).strip()
+print('Analisando seu nome...')
+print(f'Seu nome em maiúsculas é: {nome.upper()}')
+print(f'Seu nome em minúsculas é: {nome.lower()}')
+divisao = nome.split()
+juncao = ''.join(divisao)
+print(f'A quantidade total de letras é: {len(juncao)}')
+print(f'A quantidade de letras do primeiro nome é: {len(divisao[0])}')
